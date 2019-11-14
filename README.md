@@ -1,4 +1,4 @@
-# speech2text
+# speech to text
 
 
 Speech-to-text conversion using Google's speech recognition - machine learning algorithm
